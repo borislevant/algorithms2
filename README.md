@@ -3,10 +3,10 @@
 ### Department of Computer Science, Ashkelon Academic College (AAC)
 
 #### Syllabus
-https://github.com/borislevant/algorithms2/blob/main/Algorithms2%20-%20Approximation%20Algorithms.pptx
-* Approximation Algorithms: [PPTX](Algorithms2%-%Approximation%Algorithms.pptx)
-* Dictionary Coding: [PPTX](Algorithms2%-%Dictionary%Coding.pptx)
-* Arithmetic Coding: [PPTX](Algorithms2%-%Arithmetic%Coding.pptx)
+https://github.com/borislevant/algorithms2/blob/main/Algorithms2_Approximation_Algorithms.pptx
+* Approximation Algorithms: [PPTX](Algorithms2_Approximation_Algorithms.pptx)
+* Dictionary Coding: [PPTX](Algorithms2_Dictionary_Coding.pptx)
+* Arithmetic Coding: [PPTX](Algorithms2_Arithmetic_Coding.pptx)
 ....
 * Polynoms and FFT
 
