@@ -7,6 +7,7 @@ https://github.com/borislevant/algorithms2/blob/main/Algorithms2_Approximation_A
 * Approximation Algorithms: [PPTX](Algorithms2_Approximation_Algorithms.pptx)
 * Dictionary Coding: [PPTX](Algorithms2_Dictionary_Coding.pptx)
 * Arithmetic Coding: [PPTX](Algorithms2_Arithmetic_Coding.pptx)
+* Pattern Matching: [PPTX](Algorithms2_Pattern_Matching.pptx)
 ....
 * Polynoms and FFT
 
