@@ -4,7 +4,7 @@
 
 #### Syllabus
 https://github.com/borislevant/algorithms2/blob/main/Algorithms2_Approximation_Algorithms.pptx
-* Hash Tables: [PPTX](Algorithms2_Hash_Tables.pptx)
+* Hash Tables: [PPTX](Algorithms2_Hash_Tables.ppt)
 * Approximation Algorithms: [PPTX](Algorithms2_Approximation_Algorithms.pptx)
 * Dictionary Coding: [PPTX](Algorithms2_Dictionary_Coding.pptx)
 * Arithmetic Coding: [PPTX](Algorithms2_Arithmetic_Coding.pptx)
